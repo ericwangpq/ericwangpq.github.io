@@ -13,6 +13,6 @@ Hi there <img src='https://github-production-user-asset-6210df.s3.amazonaws.com/
 My research interests are designing interactive systems and empirically exploring user interactions in **Human-AI Collaboration**, **Educational Technology**, and **E-Business**. I aim to bridge the gap between users and AI technologies by developing AI-powered tools that enhance learning experiences, facilitate effective collaboration, and improve user engagement on digital platforms, with the goal of fostering trust, accessibility, and efficiency in human-computer interactions.
 
 <!-- Check out my selected publications [here](https://ericwangpq.github.io/publications/).  -->
-Check out my full CV [here](https://ericwangpq.github.io/cv.pdf).
+Check out my full CV [here](https://ericwangpq.github.io/cv/).
 
 
