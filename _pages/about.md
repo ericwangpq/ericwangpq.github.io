@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Eric"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,6 +12,7 @@ Hi there <img src='https://github-production-user-asset-6210df.s3.amazonaws.com/
 
 My research interests are designing interactive systems and empirically exploring user interactions in **Human-AI Collaboration**, **Educational Technology**, and **E-Commerce**. I aim to bridge the gap between users and AI technologies by developing AI-powered tools that enhance learning experiences, facilitate effective collaboration, and improve user engagement on digital platforms, with the goal of fostering trust, accessibility, and efficiency in human-computer interactions.
 
-Check out my selected publications [here](https://ericwangpq.github.io/publications/). Download my full CV [here](https://ericwangpq.github.io/files/eric_wang_cv.pdf).
+<!-- Check out my selected publications [here](https://ericwangpq.github.io/publications/).  -->
+Download my full CV [here](https://ericwangpq.github.io/files/eric-wang-cv.pdf).
 
 
