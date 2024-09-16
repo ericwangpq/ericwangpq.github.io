@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Pengqi (Eric) WANG / Personal Page"
 title_separator          : "-"
-name                     : &name "Pengqi (Eric) WANG / 王朋祺"
+name                     : &name "Pengqi (Eric) WANG"
 description              : &description "Human-Computer Interaction Researcher | M. Phil. Student at The Hong Kong University of Science and Technology (Guangzhou)"
 url                      : https://ericwangpq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,10 +22,10 @@ repository               : "ericwangpq/ericwangpq.github.io"
 author:
   # Biographic information
   avatar           : "eric-headshot.jpg"
-  name             : "Pengqi (Eric) WANG / 王朋祺"
+  name             : "Pengqi (Eric) WANG"
   pronouns         : "he/him"  
   bio              : "HCI researcher: Human-AI Interaction, Educational Technology, E-Business"
-  location         : "Guangzhou, CN / Hong Kong"
+  location         : # "Guangzhou, CN / Hong Kong"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "pwang294@connect.hkust-gz.edu.cn" 
