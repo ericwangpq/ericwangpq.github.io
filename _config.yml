@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Pengqi (Eric) WANG / Personal Page"
+title                    : "Pengqi (Eric) Wang | Personal Page"
 title_separator          : "-"
-name                     : &name "Pengqi (Eric) WANG"
-description              : &description "Human-Computer Interaction Researcher | M. Phil. Student at The Hong Kong University of Science and Technology (Guangzhou)"
+name                     : &name "Pengqi (Eric) Wang"
+description              : &description "Human-Computer Interaction Researcher | Ph. D. Student at The Ohio State University"
 url                      : https://ericwangpq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ericwangpq/ericwangpq.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "eric-headshot.jpg"
   name             : "Pengqi (Eric) WANG"
   pronouns         : "he/him"  
-  bio              : "HCI researcher: Human-AI Interaction, Educational Technology, E-Business"
-  location         : # "Guangzhou, CN / Hong Kong"
-  employer         : # "Red Brick University"
-  uri              : # URL
-  email            : "pwang294@connect.hkust-gz.edu.cn" 
+  bio              : "HCI researcher: AI in Healthcare, Human-AI Interaction"
+  location         : "Columbus, US"
+  employer         : "The Ohio State University Wexner Medical Center"
+  uri              : "pengqi.wang@osumc.edu"
+  email            : "wang.19883@osu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
