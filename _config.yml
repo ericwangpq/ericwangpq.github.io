@@ -12,7 +12,7 @@ title                    : "Pengqi (Eric) Wang | Personal Page"
 title_separator          : "-"
 name                     : &name "Pengqi (Eric) Wang"
 description              : &description "Human-Computer Interaction Researcher | Ph. D. Student at The Ohio State University"
-url                      : https://ericwangpq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pengqiwang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ericwangpq/ericwangpq.github.io"
 

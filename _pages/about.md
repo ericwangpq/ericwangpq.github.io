@@ -15,6 +15,6 @@ Hi there <img src='https://github-production-user-asset-6210df.s3.amazonaws.com/
 My research interests center on **Human-Computer Interaction (HCI)**, with a particular focus on the design and evaluation of **AI in Medicine and Healthcare**. I aim to investigate how AI technologies can support healthcare providers and patients in decision-making, remote monitoring, and clinical collaboration. By developing interactive systems and conducting empirical studies, my work seeks to enhance trust, transparency, and usability of AI in healthcare contexts, ultimately fostering safer, more effective, and human-centered medical practices.
 
 <!-- Check out my selected publications [here](https://ericwangpq.github.io/publications/).  -->
-Check out my full CV <a href="https://ericwangpq.github.io/cv/" style="text-decoration: none;">here</a>.
+Check out my full CV <a href="/cv/" style="text-decoration: none;">here</a>.
 
 
